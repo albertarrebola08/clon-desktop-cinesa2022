@@ -1,6 +1,7 @@
-# Práctica front end - Maquetación de la web de cinesa (imitación).
+# Práctica front end - Maquetación de la web de cinesa ( Desktop - NO Responsive ).
 
 ## Usando HTML 5 y CSS 3
+Examen 1 DAW - (FP Llefià)
 
 ### Librerías utilizadas
 
